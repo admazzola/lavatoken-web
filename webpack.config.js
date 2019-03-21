@@ -48,12 +48,9 @@ var webpackPlugins = [
 
 const routesData = {
   routes: [
-    {url: '/', title: '0xBitcoin', template: 'app/index.html', filename: 'index.html'},
-    {url: '/index-ru', title: '0xBitcoin', template: 'app/index-ru.html', filename: 'index-ru.html'},
-    {url: '/index-cn', title: '0xBitcoin', template: 'app/index-cn.html', filename: 'index-cn.html'},
-    {url: '/', title: '0xBitcoin', template: 'app/index.html', filename: 'index.html'},
+    {url: '/', title: 'Lava Token', template: 'app/index.html', filename: 'index.html'} 
 
-    {url: '/wallet', title: 'Wallet', template: 'app/wallet.html', filename: 'wallet/index.html'},
+  //  {url: '/wallet', title: 'Wallet', template: 'app/wallet.html', filename: 'wallet/index.html'},
   ]
 }
 
