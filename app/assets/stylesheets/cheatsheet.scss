@@ -41,6 +41,15 @@ li {margin: 10px}
   background: #d9d9d9;
 }
 
+.menu-list a {
+  background-color: #fd8c3c !important;
+}
+
+
+.menu-list a:hover {
+  background-color: #fdb475 !important;
+}
+
 .token.number {
   display: inline;
   padding: inherit;
